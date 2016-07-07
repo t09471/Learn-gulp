@@ -28,7 +28,7 @@ gulp.task('cssmin', function () {
 });
 
 gulp.task('jsmin', function () {
-    gulp.src('app/js/*.js')
+    gulp.src('app/js/main.js')
         .pipe(uglify())
         .pipe(rename({suffix: '.min'}))
         .pipe(gulp.dest('release'));
