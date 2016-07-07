@@ -1,0 +1,22 @@
+{
+  "name": "sample-gulp-project",
+  "version": "1.0.0",
+  "description": "Sample project to learn gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t09471/Learn-gulp.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Tarun Bhartiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t09471/Learn-gulp/issues"
+  },
+  "homepage": "https://github.com/t09471/Learn-gulp#readme"
+}
